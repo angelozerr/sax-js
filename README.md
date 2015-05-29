@@ -1,5 +1,7 @@
 # sax js
 
+[![NPM version](https://img.shields.io/npm/v/sax.svg)](https://www.npmjs.org/package/sax)
+
 A sax-style parser for XML and HTML.
 
 Designed with [node](http://nodejs.org/) in mind, but should work fine in
